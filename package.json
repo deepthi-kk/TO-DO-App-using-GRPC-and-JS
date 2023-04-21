@@ -1,0 +1,23 @@
+{
+  "name": "to-do-grpc-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepthi-kk/TO-DO-App-using-GRPC-and-JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepthi-kk/TO-DO-App-using-GRPC-and-JS/issues"
+  },
+  "homepage": "https://github.com/deepthi-kk/TO-DO-App-using-GRPC-and-JS#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.8.14",
+    "@grpc/proto-loader": "^0.7.6"
+  }
+}
